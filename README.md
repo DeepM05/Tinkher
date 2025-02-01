@@ -1,2 +1,3 @@
 # Tinkher
-blahh
+Our first Hackathon
+Author- Anamika Nair, Deepthi Mohan
